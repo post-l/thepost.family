@@ -12,6 +12,4 @@ type: post
 ---
 Little walk in the woods with Pastis today...
 
-
-
 ![](/img/d0rtnxzvsaaalnn.jpg)
