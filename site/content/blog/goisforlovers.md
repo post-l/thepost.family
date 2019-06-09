@@ -10,6 +10,6 @@ featuredalt: My Puppie
 title: Pastis in the wood
 type: post
 ---
-Little walk in the woods with Pastis today...
+## Little walk in the woods with Pastis today...
 
-![](/img/d0rtnxzvsaaalnn.jpg)
+![](/img/d0rtnxzvsaaalnn.jpg =200x300)
