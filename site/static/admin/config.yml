@@ -17,6 +17,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Image", name: "featured", widget: "image", required: false }
       - { label: "Image Alt", name: "featuredalt", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "hidden", default: "post" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"

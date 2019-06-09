@@ -8,5 +8,6 @@ description: Quick Description of this post.
 featured: /img/62216831_331818044164065_2769952302082070807_n.jpg
 featuredalt: My Puppie
 title: Pastis in the wood
+type: post
 ---
 Little walk in the woods with Pastis today...
