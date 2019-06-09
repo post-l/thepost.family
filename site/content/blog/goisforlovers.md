@@ -12,4 +12,4 @@ type: post
 ---
 ## Little walk in the woods with Pastis today...
 
-![](/img/d0rtnxzvsaaalnn.jpg =200x300)
+![](/img/d0rtnxzvsaaalnn.jpg){: height="36px" width="36px"}
