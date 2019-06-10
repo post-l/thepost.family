@@ -14,19 +14,14 @@ type: post
 
 Born 20th July 2018 in sunny California, Pastis is our blue fawn French Bulldog!  ‎🐾
 
+![babypastis](/img/img_5442.jpg)
 
-
-<img src="blob:https://www.thepost.family/9ee04a36-d12f-4efc-8c03-b2a7f7552548" height="250"/> 
-<img src="blob:https://www.thepost.family/48c03da0-487e-41f3-aa60-e6a2e286552b" height="250"/> 
+![babypastis2](/img/img_5443.jpg)
 
 We knew right away this little heartbreaker was going to come live with us
 
-<img src="blob:https://www.thepost.family/4f37dbde-24c6-4110-b81d-6ca82056949c" height="280"/>
+![](/img/pastis-bar-man.jpg)
 
-<img src="blob:https://www.thepost.family/d2f5eab2-e293-48dc-98ef-dbdefcaf51b9" height="280"/>
+![](/img/pastis-tongue-out.jpg)
 
 Pastis is named after Ricard Pastis de Marseille, because what's better than alcohol and puppies?
-
-
-
- 
