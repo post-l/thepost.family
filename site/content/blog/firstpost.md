@@ -4,7 +4,7 @@ categories:
   - Dog
   - Puppies
 date: 2019-06-08T07:00:00.000Z
-description: First post of the blog.
+description: Meet Pastis the Frenchie
 featured: /img/61423084_1653088174823582_8490901098649878528_n.jpg
 featuredalt: My Puppie
 title: Hello World my name is Pastis!
