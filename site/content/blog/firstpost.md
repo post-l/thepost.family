@@ -22,4 +22,4 @@ We knew right away this little heartbreaker was going to come live with us
 
 Pastis is named after Ricard Pastis de Marseille, because what's better than alcohol and puppies?
 
-<div align="/center">
+</center>
