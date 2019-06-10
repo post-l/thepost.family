@@ -5,16 +5,26 @@ categories:
   - Puppies
 date: 2019-06-08T07:00:00.000Z
 description: First post of the blog.
-featured: /img/img_7382_facetune_20-10-2018-14-57-11.jpg
+featured: /img/61423084_1653088174823582_8490901098649878528_n.jpg
 featuredalt: My Puppie
 title: Hello World my name is Pastis!
 type: post
 ---
+Born 20th July 2018 in sunny California, Pastis is our blue fawn French Bulldog!  ‎🐾
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce egestas odio in magna tincidunt rutrum. Aliquam viverra nec lacus id congue. Vivamus blandit, enim in porta tempus, nibh ante sodales libero, nec sollicitudin quam magna in neque. Etiam diam dui, efficitur sollicitudin nibh sed, faucibus finibus quam. Vestibulum placerat leo libero, in aliquet felis vehicula eu. Maecenas laoreet varius erat, sit amet volutpat enim tempus sit amet. Proin cursus velit porttitor varius vestibulum. Curabitur ultrices diam vel lectus malesuada, ut laoreet lectus ullamcorper. Sed bibendum tellus a neque pellentesque, at fermentum massa porttitor. Donec vel nisl et sem fermentum venenatis. Quisque volutpat tincidunt libero nec efficitur. Etiam vitae massa varius, rhoncus nunc sit amet, commodo sapien.
 
-## Car Road Trip
 
-Always like a good ride down the sunny California coast!
+<img src="blob:https://www.thepost.family/9ee04a36-d12f-4efc-8c03-b2a7f7552548" alt="drawing" height="250"/> 
+<img src="blob:https://www.thepost.family/48c03da0-487e-41f3-aa60-e6a2e286552b" alt="drawing" height="250"/> 
 
-<img src="https://i.pinimg.com/564x/09/c8/1c/09c81cc8c91fd453f9b5fefeb085509a.jpg" alt="drawing" width="400"/>
+We knew right away this little heartbreaker was going to come live with us
+
+<img src="blob:https://www.thepost.family/4f37dbde-24c6-4110-b81d-6ca82056949c" alt="drawing" height="280"/>
+
+<img src="blob:https://www.thepost.family/d2f5eab2-e293-48dc-98ef-dbdefcaf51b9" alt="drawing" height="280"/>
+
+Pastis is named after Ricard Pastis de Marseille, because what's better than alcohol and puppies?
+
+
+
+ 
