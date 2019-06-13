@@ -24,4 +24,6 @@ Pastis is named after Ricard Pastis de Marseille, because what's better than alc
 
 <img src="https://i.pinimg.com/564x/17/07/a5/1707a543ad2384f665e6b506a965d676.jpg">
 
+When he isn't sleeping or eating, Pastis loves to explore and make new friends, all whilst representing the best brands. <a href="mailto:pastis@thepost.family" target="_top">Let us know</a> if you would like to collaborate!
+
 </center>
