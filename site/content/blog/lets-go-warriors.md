@@ -2,6 +2,7 @@
 author: Hollie
 date: 2019-06-14T01:36:04.004Z
 description: Bae in the Bay
+featured: /img/banner-if-wtha.jpg
 featuredalt: golden state baby
 title: Let's Go Warriors
 type: post
