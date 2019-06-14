@@ -6,7 +6,7 @@ featuredalt: golden state baby
 title: Let's Go Warriors
 type: post
 ---
-Being in the bay, of course we support the Golden State Warriors- but the struggle is real when it comes to game-ready attire for pups. Sick of the weirdly sized, overpriced “unofficial” team jerseys, I decided to take matters into my own hands and tailor Pastis’ very own custom GSW shirt.
+<p><center><p align=”justify”>Being in the bay, of course we support the Golden State Warriors- but the struggle is real when it comes to game-ready attire for pups. Sick of the weirdly sized, overpriced “unofficial” team jerseys, I decided to take matters into my own hands and tailor Pastis’ very own custom GSW shirt.
 
 Given this is my first ever attempt at making ANY clothing, let alone for the complex figure of a French Bulldog, I am pretty pleased with the outcome!
 
@@ -16,4 +16,4 @@ Thanks to a bargain $6 pair of kids PJ bottoms from Marshalls, and some very int
 
 <img src="https://i.pinimg.com/564x/1a/18/5a/1a185afe1e4a62e78c51cf43c7209653.jpg">
 
-Pastis is a man of a more relaxed lifestyle so he mostly enjoys his shirt unbuttoned, but for this photo-op he suited up  🐾
+Pastis is a man of a more relaxed lifestyle so he mostly enjoys his shirt unbuttoned, but for this photo-op he suited up  🐾</p></center>
