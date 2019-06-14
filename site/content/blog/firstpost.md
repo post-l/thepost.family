@@ -5,7 +5,7 @@ categories:
   - Puppies
 date: 2019-06-08T07:00:00.000Z
 description: Meet Pastis the Frenchie
-featured: /img/61423084_1653088174823582_8490901098649878528_n.jpg
+featured: /img/pastis-hellp-banner.jpg
 featuredalt: My Puppie
 title: Meet Pastis
 type: post
