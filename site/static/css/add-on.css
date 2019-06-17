@@ -1,3 +1,7 @@
 .fancybox {
   padding: 8px;
 }
+
+.post>div>p, .post>p {
+  text-align: center;
+}
