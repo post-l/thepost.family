@@ -14,7 +14,8 @@ type: post
 
 Born 20th July 2018 in sunny California, Pastis is our blue fawn French Bulldog!  ‎🐾
 
-<img src="https://i.pinimg.com/564x/a8/85/64/a88564223af16ed7fe2ec1ca3dda06bb.jpg" height="230">  <img src="https://i.pinimg.com/originals/40/61/e3/4061e318d8486ce196e0eac8723c7a0e.png" height="230">
+{{< fancybox path="https://i.pinimg.com/564x/a8/85/64" file="a88564223af16ed7fe2ec1ca3dda06bb.jpg" caption="Baby Pastis 1" gallery="Baby Photo shoot" >}}
+{{< fancybox path="https://i.pinimg.com/564x/a8/85/64" file="a88564223af16ed7fe2ec1ca3dda06bb.jpg" caption="Baby Pastis 2" gallery="Baby Photo shoot" >}}
 
 We knew right away this little heartbreaker was going to come live with us
 
