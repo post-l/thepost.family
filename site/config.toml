@@ -5,7 +5,7 @@ title = "The Post Family"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
-googleAnalytics         = ""
+googleAnalytics         = "UA-142102283-1"
 pluralizeListTitles     = false
 disableLanguages        = [""]
 
