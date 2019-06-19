@@ -1,8 +1,11 @@
 backend:
   name: git-gateway
 
-media_folder: "site/static/img" # Folder where user uploaded files should go
+site_url: "https://www.thepost.family/"
+
+media_folder: "site/static/img"
 public_folder: "img"
+publish_mode: "editorial_workflow"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
