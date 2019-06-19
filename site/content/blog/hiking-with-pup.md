@@ -4,7 +4,7 @@ tags:
   - dog friendly
 date: 2019-06-18T20:29:34.481Z
 description: Ready to bring pup along on your favourite hike?
-featured: /img/hikeypoo.jpg
+featured: /img/coverp.jpg
 featuredalt: Hikes
 title: Hiking With Pup
 type: post
