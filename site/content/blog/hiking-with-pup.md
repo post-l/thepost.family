@@ -37,9 +37,9 @@ This is our go-to hiking spot with its incredible views of Silicon Valley, a var
 
 A beautiful trail along a former segment of Highway 1, this is the perfect wake-up walk with a blast of fresh coastal air. The trail itself is concrete with little shade so be wary on hot days. Take a little detour just past the trail to get a closer look at the precarious Devil’s Slide Bunker.
 
-<img src="https://i.pinimg.com/564x/47/4a/88/474a882b8441688d7a2e11a21b2cce35.jpg" height="270">
+<img src="https://i.pinimg.com/564x/47/4a/88/474a882b8441688d7a2e11a21b2cce35.jpg" height="265">
 
-<img src="https://i.pinimg.com/564x/bf/96/c3/bf96c3900c4519f56cb773faee5f41cf.jpg" height="270">
+<img src="https://i.pinimg.com/564x/bf/96/c3/bf96c3900c4519f56cb773faee5f41cf.jpg" height="265">
 
 [Almaden Quicksilver County Park](https://www.sccgov.org/sites/parks/parkfinder/pages/almadenpark.aspx)
 
