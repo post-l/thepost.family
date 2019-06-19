@@ -28,5 +28,3 @@ Pastis is named after Ricard Pastis de Marseille, because what's better than alc
 {{< fancybox path="https://i.pinimg.com/564x/17/07/a5/" file="1707a543ad2384f665e6b506a965d676.jpg" gallery="Family" >}}
 
 When he isn't sleeping or eating, Pastis loves to explore and make new friends, all whilst representing the best brands. <a href="mailto:pastis@thepost.family" target="_top">Let us know</a> if you would like to collaborate!
-
-{{< fancybox path="/img" file="62216831_331818044164065_2769952302082070807_n.jpg" >}}
