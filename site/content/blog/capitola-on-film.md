@@ -8,4 +8,4 @@ featuredalt: ' '
 title: Capitola on Film
 type: post
 ---
-![](/img/capitola-photo-blog.png)
+![](/img/capitola-photo-blog-1-.png)
