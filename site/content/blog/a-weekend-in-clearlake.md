@@ -8,7 +8,7 @@ type: post
 ---
 ![](/img/1-copy.png)
 
-![](/img/2.png)
+![](/img/2-copy.png)
 
 ![](/img/3.png)
 
