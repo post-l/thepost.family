@@ -1,10 +1,10 @@
 ---
 author: Hollie
 date: 2020-02-24T23:12:40.395Z
-description: 'A Weekend in Clearlake, CA'
+description: February 2020
 featured: ''
 featuredalt: photos
-title: A Weekend in Clearlake
+title: Weekend Away
 type: post
 ---
 ![](/img/1-copy.png)
