@@ -6,7 +6,7 @@ featuredalt: photos
 title: A Weekend in Clearlake
 type: post
 ---
-![](/img/1.png)
+![](/img/1-copy.png)
 
 ![](/img/2.png)
 
