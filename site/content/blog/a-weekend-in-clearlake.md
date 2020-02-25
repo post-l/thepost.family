@@ -10,8 +10,4 @@ type: post
 
 ![](/img/2-copy.png)
 
-![](/img/3.png)
-
-![](/img/4.png)
-
-![](/img/5.png)
+![](/img/3-copy.png)
