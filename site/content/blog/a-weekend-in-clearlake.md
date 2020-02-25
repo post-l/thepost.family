@@ -2,7 +2,7 @@
 author: Hollie
 date: 2020-02-24T23:12:40.395Z
 description: 'A Weekend in Clearlake, CA'
-featured: /img/screen-shot-2020-02-25-at-10.58.01-am.png
+featured: ''
 featuredalt: photos
 title: A Weekend in Clearlake
 type: post
